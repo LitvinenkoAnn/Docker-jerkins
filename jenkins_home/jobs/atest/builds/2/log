@@ -1,0 +1,8 @@
+Started by user [8mha:////4PgSdl+Xt+9hQrczPk2tTOIYmpJ0Cb+tJkglYxHS0MiEAAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyWEgYu/dLi1CL9xLy8RAAmEsTlvwAAAA==[0mAnna
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/atest
+[atest] $ /bin/sh -xe /tmp/jenkins12758435545681877215.sh
++ npm i
+/tmp/jenkins12758435545681877215.sh: 2: npm: not found
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE
